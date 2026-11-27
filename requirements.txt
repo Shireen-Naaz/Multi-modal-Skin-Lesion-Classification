@@ -1,0 +1,7 @@
+# Google Colab already has these. Only needed for a local run.
+tensorflow>=2.16
+scikit-learn
+pandas
+numpy
+matplotlib
+kagglehub
